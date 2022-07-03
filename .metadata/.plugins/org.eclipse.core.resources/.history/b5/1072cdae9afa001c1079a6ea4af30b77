@@ -1,0 +1,11 @@
+@RestController
+@RequestMapping("/employee")
+public class EmployeeRestController {
+	//Here we can not use GET/HEAD Method Type
+	//Pass JSON for employee
+	@PostMapping("/save")
+	public String saveEmp(
+			@RequestBody Employee employee) {
+		return "Data is "+employee.toString();
+	}
+}
