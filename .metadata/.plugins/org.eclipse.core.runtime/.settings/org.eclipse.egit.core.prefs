@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=E\:\\587 SPRING BOOT REST\\RequestBody-Ex\\.git;
-GitRepositoriesView.GitDirectories.relative=RequestBody-Ex\\.git;
+GitRepositoriesView.GitDirectories=E\:\\587 SPRING BOOT REST\\.git;E\:\\587 SPRING BOOT REST\\RequestBody-Ex\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;RequestBody-Ex\\.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1
